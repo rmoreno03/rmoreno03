@@ -58,8 +58,8 @@ _Consulta más proyectos en [mis repositorios públicos](https://github.com/rmor
 
 ### 📫 Contacto
 
-- Email: **[pon aquí tu email]**
-- LinkedIn: [linkedin.com/in/tuusuario](#)
+- Email: **[rulomorenomo@gmail.com]**
+- LinkedIn: [https://www.linkedin.com/in/raul-moreno-moya-b37002293/](#)
 - Portfolio / Web: [rmoreno03.github.io](https://rmoreno03.github.io) _(próximamente)_
 
 ---
