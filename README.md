@@ -14,7 +14,7 @@ Mi próximo objetivo: **empezar Ingeniería Informática y seguir creciendo como
 
 ### 🛠️ Tecnologías principales
 
-<img src="https://skillicons.dev/icons?i=angular,java,cs,typescript,html,css,sql,firebase,git,github,dotnet,flutter" alt="Tech stack" height="50" />
+<img src="https://skillicons.dev/icons?i=angular,java,cs,typescript,html,css,firebase,git,github,dotnet,flutter" alt="Tech stack" height="50" />
 
 - **Frontend:** Angular, TypeScript, HTML5, CSS3  
 - **Backend:** Java, C#, .NET (learning), Node.js (básico)  
